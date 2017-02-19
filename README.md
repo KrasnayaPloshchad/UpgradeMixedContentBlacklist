@@ -4,6 +4,8 @@
 
 # Test:
 
+[PotPlayer](https://potplayer.daum.net/)
+
 [好奇心日报](https://www.qdaily.com/)
 
 [腾讯视频](https://v.qq.com/x/page/u0115g0auru.html)
