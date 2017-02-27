@@ -4,6 +4,10 @@
 
 # Test:
 
+Note: No tests for RSS Readers.
+
+[招商银行](https://www.cmbchina.com/)
+
 [PotPlayer](https://potplayer.daum.net/)
 
 [好奇心日报](https://www.qdaily.com/)
