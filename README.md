@@ -23,3 +23,5 @@ Note: No tests for RSS Readers.
 [1024](https://www.t66y.com/htm_data/4/1702/2266673.html)
 
 [弈客围棋](https://www.yikeweiqi.com/news/topline/28624/)
+
+[中关村在线论坛](https://bbs.zol.com.cn/sjbbs/d34130_170331.html)
