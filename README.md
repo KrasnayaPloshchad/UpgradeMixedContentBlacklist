@@ -6,6 +6,8 @@
 
 Note: No tests for RSS Readers.
 
+[安智用户中心](https://i.anzhi.com/web/account/login)
+
 [招商银行](https://www.cmbchina.com/)
 
 [PotPlayer](https://potplayer.daum.net/)
