@@ -12,6 +12,8 @@ Note: No tests for RSS Readers.
 
 [观察者网](https://www.guancha.cn/chenjing/2017_03_16_399011_s.shtml)
 
+[联想知识库](https://iknow.lenovo.com.cn/detail/dc_153184.html)
+
 [好奇心日报](https://www.qdaily.com/)
 
 [腾讯新闻](https://view.inews.qq.com/a/TEC2016121302749602)
