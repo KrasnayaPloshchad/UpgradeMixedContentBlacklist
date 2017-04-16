@@ -1,6 +1,6 @@
 {
 	"feedly.com":1,
-	"www.inoreader.com":1,
+	"www.inoreader.com":0,
 	"newsblur.com":1,
 	"www.newsblur.com":1,
 	"theoldreader.com":1,
@@ -17,8 +17,10 @@
 	"m.qdaily.com":1,
 	"view.inews.qq.com":1,
 	"v.qq.com":1,
+	"itchat.readthedocs.io":1,
 	"zhongce.sina.com.cn":1,
 	"t66y.com":1,
 	"www.t66y.com":1,
+	"toutiao.io":1,
 	"www.yikeweiqi.com":1
 }

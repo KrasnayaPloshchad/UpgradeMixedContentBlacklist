@@ -24,8 +24,12 @@ Note: No tests for RSS Readers.
 
 注：视频源大部分为不支持 HTTPs 的 IP 地址，偶尔不用黑名单排除也能播放。
 
+[ItChat 教程](https://itchat.readthedocs.io/zh/latest/tutorial/tutorial0/)
+
 [新浪众测](https://zhongce.sina.com.cn/)
 
 [1024](https://www.t66y.com/htm_data/4/1702/2266673.html)
+
+[开发者头条](https://toutiao.io/posts/48x2bx/preview)
 
 [弈客围棋](https://www.yikeweiqi.com/news/topline/28624/)
