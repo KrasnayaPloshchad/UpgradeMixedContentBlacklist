@@ -4,7 +4,7 @@
 
 # Test:
 
-Note: No tests for RSS Readers.
+No tests for RSS Readers.
 
 [招商银行](https://www.cmbchina.com/)
 
@@ -20,9 +20,7 @@ Note: No tests for RSS Readers.
 
 [腾讯新闻](https://view.inews.qq.com/a/TEC2016121302749602)
 
-[腾讯视频](https://v.qq.com/x/page/u0115g0auru.html)
-
-注：视频源大部分为不支持 HTTPs 的 IP 地址，偶尔不用黑名单排除也能播放。
+[腾讯视频](https://v.qq.com/x/page/u0115g0auru.html)    注：视频源大部分为不支持 HTTPS 的 IP 地址，偶尔不用黑名单排除也能播放。
 
 [ItChat 教程](https://itchat.readthedocs.io/zh/latest/tutorial/tutorial0/)
 
