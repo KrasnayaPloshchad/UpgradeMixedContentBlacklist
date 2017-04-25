@@ -10,6 +10,8 @@ No tests for RSS Readers.
 
 [PotPlayer](https://potplayer.daum.net/)
 
+[KGS Go Server](https://www.gokgs.com/)
+
 [观察者网](https://www.guancha.cn/chenjing/2017_03_16_399011_s.shtml)
 
 [联想知识库](https://iknow.lenovo.com.cn/detail/dc_153184.html)
