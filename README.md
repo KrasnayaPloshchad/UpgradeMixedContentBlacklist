@@ -6,6 +6,8 @@
 
 No tests for RSS Readers.
 
+[4chan](https://www.4chan.org/)
+
 [招商银行](https://www.cmbchina.com/)
 
 [PotPlayer](https://potplayer.daum.net/)
