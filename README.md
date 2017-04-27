@@ -35,3 +35,5 @@ No tests for RSS Readers.
 [开发者头条](https://toutiao.io/posts/48x2bx/preview)
 
 [弈客围棋](https://www.yikeweiqi.com/news/topline/28624/)
+
+[最美应用](https://www.zuimeia.com/)
