@@ -36,4 +36,6 @@ No tests for RSS Readers.
 
 [弈客围棋](https://www.yikeweiqi.com/news/topline/28624/)
 
+[优书网](https://www.yousuu.com/)
+
 [最美应用](https://www.zuimeia.com/)
