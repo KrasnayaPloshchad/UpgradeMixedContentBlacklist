@@ -28,8 +28,6 @@ No tests for RSS Readers.
 
 [ItChat 教程](https://itchat.readthedocs.io/zh/latest/tutorial/tutorial0/)
 
-[新浪众测](https://zhongce.sina.com.cn/)
-
 [1024](https://www.t66y.com/htm_data/4/1702/2266673.html)
 
 [开发者头条](https://toutiao.io/posts/48x2bx/preview)
