@@ -18,8 +18,6 @@ No tests for RSS Readers.
 
 [联想知识库](https://iknow.lenovo.com.cn/detail/dc_153184.html)
 
-[BostonGlobeMedia](https://go.pardot.com/l/36752/2015-01-23/37crk)
-
 [好奇心日报](https://www.qdaily.com/)
 
 [腾讯新闻](https://view.inews.qq.com/a/TEC2016121302749602)
