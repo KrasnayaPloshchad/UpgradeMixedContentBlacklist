@@ -8,7 +8,11 @@ No tests for RSS Readers.
 
 [4chan](https://www.4chan.org/)
 
-[招商银行](https://www.cmbchina.com/)
+[招商银行](https://www.cmbchina.com/cmbinfo/)
+
+[招商銀行香港分行](https://hk.cmbchina.com/)
+
+[China Merchants Bank -- Singapore Branch](https://sg.cmbchina.com/)
 
 [PotPlayer](https://potplayer.daum.net/)
 
