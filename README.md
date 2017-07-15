@@ -14,6 +14,8 @@ No tests for RSS Readers.
 
 [China Merchants Bank -- Singapore Branch](https://sg.cmbchina.com/)
 
+[酷安网](https://coolapk.com/apk/com.oasisfeng.greenify)
+
 [PotPlayer](https://potplayer.daum.net/)
 
 [KGS Go Server](https://www.gokgs.com/)
