@@ -22,6 +22,10 @@ No tests for RSS Readers.
 
 [观察者网](https://www.guancha.cn/chenjing/2017_03_16_399011_s.shtml)
 
+[环球网](https://m.huanqiu.com/r/MV8wXzg3MTg4MDZfMTQyNV8xNDU4MTE0NTQw)
+
+[环球网](https://w.huanqiu.com/r/MV8wXzg3MTg4MDZfMTQyNV8xNDU4MTE0NTQw)
+
 [虎扑社区](https://bbs.hupu.com/19247804.html)
 
 [联想知识库](https://iknow.lenovo.com.cn/detail/dc_153184.html)
