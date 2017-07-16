@@ -30,13 +30,15 @@ No tests for RSS Readers.
 
 [腾讯新闻](https://view.inews.qq.com/a/TEC2016121302749602)
 
-[腾讯视频](https://v.qq.com/x/page/u0115g0auru.html)    注：视频源大部分为不支持 HTTPS 的 IP 地址，偶尔不用黑名单排除也能播放。
+[腾讯视频](https://v.qq.com/x/page/u0115g0auru.html)  注：视频源大部分为不支持 HTTPS 的 IP 地址，偶尔不用黑名单排除也能播放。
 
 [ItChat 教程](https://itchat.readthedocs.io/zh/latest/tutorial/tutorial0/)
 
 [1024](https://www.t66y.com/htm_data/4/1702/2266673.html)
 
 [开发者头条](https://toutiao.io/posts/48x2bx/preview)
+
+[弈招围棋](https://www.weiqitv.com/)
 
 [弈客围棋](https://www.yikeweiqi.com/news/topline/28624/)
 
