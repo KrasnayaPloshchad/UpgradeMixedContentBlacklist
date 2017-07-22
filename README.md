@@ -44,6 +44,8 @@ No tests for RSS Readers.
 
 [弈招围棋](https://www.weiqitv.com/)
 
+[无秘](https://www.wumii.org/)
+
 [弈客围棋](https://www.yikeweiqi.com/news/topline/28624/)
 
 [优书网](https://www.yousuu.com/)
