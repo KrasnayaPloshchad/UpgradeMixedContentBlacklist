@@ -20,8 +20,6 @@ No tests for RSS Readers.
 
 [KGS Go Server](https://www.gokgs.com/)
 
-[观察者网](https://www.guancha.cn/chenjing/2017_03_16_399011_s.shtml)
-
 [环球网](https://m.huanqiu.com/r/MV8wXzg3MTg4MDZfMTQyNV8xNDU4MTE0NTQw)
 
 [环球网](https://w.huanqiu.com/r/MV8wXzg3MTg4MDZfMTQyNV8xNDU4MTE0NTQw)
@@ -42,12 +40,8 @@ No tests for RSS Readers.
 
 [开发者头条](https://toutiao.io/posts/48x2bx/preview)
 
-[弈招围棋](https://www.weiqitv.com/)
-
-[无秘](https://www.wumii.org/)
-
 [弈客围棋](https://www.yikeweiqi.com/news/topline/28624/)
 
 [优书网](https://www.yousuu.com/)
 
-[最美应用](https://www.zuimeia.com/)
+[最美应用](https://zuimeia.com/app/5421/)
