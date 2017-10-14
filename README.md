@@ -28,6 +28,8 @@ No tests for RSS Readers.
 
 [联想知识库](https://iknow.lenovo.com.cn/detail/dc_153184.html)
 
+[丽华快餐](https://www.lihua.com/)
+
 [好奇心日报](https://www.qdaily.com/)
 
 [腾讯新闻](https://view.inews.qq.com/a/TEC2016121302749602)
