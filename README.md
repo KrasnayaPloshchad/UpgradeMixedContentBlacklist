@@ -8,6 +8,8 @@ No tests for RSS Readers.
 
 [4chan](https://www.4chan.org/)
 
+[Alien外星人](https://www.aliengu.com/)
+
 [招商银行](https://www.cmbchina.com/cmbinfo/)
 
 [招商銀行香港分行](https://hk.cmbchina.com/)
