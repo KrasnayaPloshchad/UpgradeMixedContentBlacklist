@@ -50,6 +50,8 @@ No tests for RSS Readers.
 
 [弈客围棋](https://www.yikeweiqi.com/news/topline/28624/)
 
+[弈客热门直播](https://share.yikeweiqi.com/golive/livelist)
+
 [优书网](https://www.yousuu.com/)
 
 [最美应用](https://zuimeia.com/app/5421/)
