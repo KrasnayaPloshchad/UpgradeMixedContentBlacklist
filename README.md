@@ -28,6 +28,8 @@ No tests for RSS Readers.
 
 [虎扑社区](https://bbs.hupu.com/19247804.html)
 
+[卡饭论坛](https://bbs.kafan.cn/thread-2102542-3-1.html)
+
 [联想知识库](https://iknow.lenovo.com.cn/detail/dc_153184.html)
 
 [丽华快餐](https://www.lihua.com/)
