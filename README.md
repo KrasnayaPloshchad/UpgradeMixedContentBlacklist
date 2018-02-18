@@ -10,6 +10,8 @@ No tests for RSS Readers.
 
 [Alien外星人](https://www.aliengu.com/)
 
+[South Park](https://southpark.cc.com/)
+
 [招商银行](https://www.cmbchina.com/cmbinfo/)
 
 [招商銀行香港分行](https://hk.cmbchina.com/)
@@ -36,15 +38,15 @@ No tests for RSS Readers.
 
 [好奇心日报](https://www.qdaily.com/)
 
-[腾讯新闻](https://view.inews.qq.com/a/TEC2016121302749602)
+[腾讯新闻](https://view.inews.qq.com/a/TEC2016121302749602) 注：视频源部分为不支持 HTTPS 的 IP 地址，有时不用黑名单排除也能播放。
 
-[腾讯视频](https://v.qq.com/x/page/u0115g0auru.html)  注：视频源大部分为不支持 HTTPS 的 IP 地址，偶尔不用黑名单排除也能播放。
+[腾讯视频](https://v.qq.com/x/page/u0115g0auru.html)  注：同上。
 
 [ItChat 教程](https://itchat.readthedocs.io/zh/latest/tutorial/tutorial0/)
 
-[South Park](https://southpark.cc.com/)
-
 [1024](https://www.t66y.com/htm_data/4/1702/2266673.html)
+
+[TechCrunch 中文版](https://techcrunch.cn/)
 
 [开发者头条](https://toutiao.io/posts/48x2bx/preview)
 
