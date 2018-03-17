@@ -14,9 +14,11 @@ No tests for RSS Readers.
 
 [招商银行](https://www.cmbchina.com/cmbinfo/)
 
+[招商银行手机一网通](https://m.cmbchina.com/Default.aspx)
+
 [招商銀行香港分行](https://hk.cmbchina.com/)
 
-[China Merchants Bank -- Singapore Branch](https://sg.cmbchina.com/)
+[China Merchants Bank Singapore Branch](https://sg.cmbchina.com/)
 
 [酷安网](https://coolapk.com/apk/com.oasisfeng.greenify)
 
@@ -29,6 +31,8 @@ No tests for RSS Readers.
 [环球网](https://w.huanqiu.com/r/MV8wXzg3MTg4MDZfMTQyNV8xNDU4MTE0NTQw)
 
 [虎扑社区](https://bbs.hupu.com/19247804.html)
+
+[iVeryOne](https://beta.ivery.one/Feed)
 
 [卡饭论坛](https://bbs.kafan.cn/thread-2102542-3-1.html)
 
