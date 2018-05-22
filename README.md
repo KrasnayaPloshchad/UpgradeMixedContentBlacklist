@@ -50,8 +50,6 @@ No tests for RSS Readers.
 
 [1024](https://www.t66y.com/htm_data/4/1702/2266673.html)
 
-[TechCrunch 中文版](https://techcrunch.cn/)
-
 [开发者头条](https://toutiao.io/posts/48x2bx/preview)
 
 [土豆视频](https://new-play.tudou.com/v/XMzU4MTg5NTg3Mg.html)
