@@ -54,6 +54,10 @@ No tests for RSS Readers.
 
 [开发者头条](https://toutiao.io/posts/48x2bx/preview)
 
+[土豆视频](https://new-play.tudou.com/v/XMzU4MTg5NTg3Mg.html)
+
+[土豆视频移动版](https://compaign.tudou.com/v/XMzU4MTg5NTg3Mg)
+
 [弈客围棋](https://www.yikeweiqi.com/news/topline/28624/)
 
 [弈客热门直播](https://share.yikeweiqi.com/golive/livelist)
