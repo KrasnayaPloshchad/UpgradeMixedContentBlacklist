@@ -60,6 +60,8 @@ No tests for RSS Readers.
 
 [弈客热门直播](https://share.yikeweiqi.com/golive/livelist)
 
+[优酷网](https://v.youku.com/v_show/id_XNjQ1OTkxMDcy.html)
+
 [优书网](https://www.yousuu.com/)
 
 [最美应用](https://zuimeia.com/app/5421/)
