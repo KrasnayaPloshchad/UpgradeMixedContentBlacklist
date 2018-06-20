@@ -24,8 +24,6 @@ No tests for RSS Readers.
 
 [PotPlayer](https://potplayer.daum.net/)
 
-[超能网](https://www.expreview.com/)
-
 [KGS Go Server](https://www.gokgs.com/)
 
 [环球网](https://m.huanqiu.com/r/MV8wXzg3MTg4MDZfMTQyNV8xNDU4MTE0NTQw)
