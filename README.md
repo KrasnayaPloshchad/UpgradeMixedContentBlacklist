@@ -40,9 +40,9 @@ No tests for RSS Readers.
 
 [丽华快餐](https://www.lihua.com/)
 
-[NGA玩家社区](https://bbs.ngacn.cc/)
+[NGA玩家社区1](https://bbs.ngacn.cc/)
 
-[NGA玩家社区](https://nga.178.com/)
+[NGA玩家社区2](https://nga.178.com/)
 
 [好奇心日报](https://www.qdaily.com/)
 
