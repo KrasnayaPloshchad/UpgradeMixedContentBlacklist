@@ -10,6 +10,8 @@ No tests for RSS Readers.
 
 [Alien外星人](https://www.aliengu.com/)
 
+[Bianews鞭牛士](https://www.bianews.com/)
+
 [South Park](https://southpark.cc.com/)
 
 [招商银行](https://www.cmbchina.com/cmbinfo/)
