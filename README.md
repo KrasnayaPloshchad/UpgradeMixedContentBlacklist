@@ -40,10 +40,6 @@ No tests for RSS Readers.
 
 [丽华快餐](https://www.lihua.com/)
 
-[NGA玩家社区1](https://bbs.ngacn.cc/)
-
-[NGA玩家社区2](https://nga.178.com/)
-
 [好奇心日报](https://www.qdaily.com/)
 
 [腾讯新闻](https://view.inews.qq.com/a/TEC2016121302749602) 注：视频源部分为不支持 HTTPS 的 IP 地址，有时不用黑名单排除也能播放。
