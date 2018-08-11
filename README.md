@@ -32,8 +32,6 @@ No tests for RSS Readers.
 
 [环球网](https://w.huanqiu.com/r/MV8wXzg3MTg4MDZfMTQyNV8xNDU4MTE0NTQw)
 
-[虎扑社区](https://bbs.hupu.com/19247804.html)
-
 [卡饭论坛](https://bbs.kafan.cn/thread-2102542-3-1.html)
 
 [丽华快餐](https://www.lihua.com/)
