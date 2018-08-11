@@ -14,14 +14,6 @@ No tests for RSS Readers.
 
 [South Park](https://southpark.cc.com/)
 
-[招商银行](https://www.cmbchina.com/cmbinfo/)
-
-[招商银行手机一网通](https://m.cmbchina.com/Default.aspx)
-
-[招商銀行香港分行](https://hk.cmbchina.com/)
-
-[China Merchants Bank Singapore Branch](https://sg.cmbchina.com/)
-
 [酷安网](https://coolapk.com/apk/com.oasisfeng.greenify)
 
 [PotPlayer](https://potplayer.daum.net/)
