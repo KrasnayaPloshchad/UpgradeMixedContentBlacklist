@@ -32,7 +32,7 @@ No tests for RSS Readers.
 
 [腾讯新闻](https://view.inews.qq.com/a/TEC2016121302749602) 注：视频源部分为不支持 HTTPS 的 IP 地址，有时不用黑名单排除也能播放。
 
-[腾讯视频](https://v.qq.com/x/page/u0115g0auru.html)  注：同上。
+[腾讯视频](https://v.qq.com/x/page/u0115g0auru.html)  注：同上。20180811测试似乎已经不受影响了，暂时禁用，持续观察。
 
 [ItChat 教程](https://itchat.readthedocs.io/zh/latest/tutorial/tutorial0/)
 
