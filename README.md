@@ -36,8 +36,6 @@ No tests for RSS Readers.
 
 [卡饭论坛](https://bbs.kafan.cn/thread-2102542-3-1.html)
 
-[联想知识库](https://iknow.lenovo.com.cn/detail/dc_153184.html)
-
 [丽华快餐](https://www.lihua.com/)
 
 [好奇心日报](https://www.qdaily.com/)
@@ -48,7 +46,7 @@ No tests for RSS Readers.
 
 [ItChat 教程](https://itchat.readthedocs.io/zh/latest/tutorial/tutorial0/)
 
-[1024](https://www.t66y.com/htm_data/4/1702/2266673.html)
+[1024](https://www.t66y.com/htm_data/7/1807/3215559.html)
 
 [开发者头条](https://toutiao.io/posts/48x2bx/preview)
 
