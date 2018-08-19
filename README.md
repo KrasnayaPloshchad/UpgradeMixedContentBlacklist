@@ -30,10 +30,6 @@ No tests for RSS Readers.
 
 [好奇心日报](https://www.qdaily.com/)
 
-[腾讯新闻](https://view.inews.qq.com/a/TEC2016121302749602) 注：视频源部分为不支持 HTTPS 的 IP 地址，有时不用黑名单排除也能播放。
-
-[腾讯视频](https://v.qq.com/x/page/u0115g0auru.html)  注：同上。20180811测试似乎已经不受影响了，暂时禁用，持续观察。
-
 [ItChat 教程](https://itchat.readthedocs.io/zh/latest/tutorial/tutorial0/)
 
 [1024](https://www.t66y.com/htm_data/7/1807/3215559.html)
@@ -46,6 +42,6 @@ No tests for RSS Readers.
 
 [弈客围棋](https://www.yikeweiqi.com/news/topline/28624/)
 
-[优酷网](https://v.youku.com/v_show/id_XNjQ1OTkxMDcy.html)
+[优酷视频](https://v.youku.com/v_show/id_XNjQ1OTkxMDcy.html)
 
 [最美应用](https://zuimeia.com/app/5421/)
