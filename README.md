@@ -24,8 +24,6 @@ No tests for RSS Readers.
 
 [环球网](https://w.huanqiu.com/r/MV8wXzg3MTg4MDZfMTQyNV8xNDU4MTE0NTQw)
 
-[卡饭论坛](https://bbs.kafan.cn/thread-2102542-3-1.html)
-
 [丽华快餐](https://www.lihua.com/)
 
 [好奇心日报](https://www.qdaily.com/)
@@ -39,8 +37,6 @@ No tests for RSS Readers.
 [土豆视频](https://new-play.tudou.com/v/XMzU4MTg5NTg3Mg.html)
 
 [土豆视频移动版](https://compaign.tudou.com/v/XMzU4MTg5NTg3Mg)
-
-[弈客围棋](https://www.yikeweiqi.com/news/topline/28624/)
 
 [优酷视频](https://v.youku.com/v_show/id_XNjQ1OTkxMDcy.html)
 
