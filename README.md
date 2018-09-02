@@ -41,3 +41,9 @@ No tests for RSS Readers.
 [优酷视频](https://v.youku.com/v_show/id_XNjQ1OTkxMDcy.html)
 
 [最美应用](https://zuimeia.com/app/5421/)
+
+## MCB 以外的原因
+
+[弈客对弈大厅](http://portal.yikeweiqi.com/online/index/index.html)
+
+如果不排除弈客对弈大厅，[从HTTPS降级回HTTP](https://github.com/ivysrono/Scripts/blob/master/Better-yikeweiqi.user.js#L27) 会导致无限重定向。
