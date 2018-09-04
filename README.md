@@ -28,6 +28,8 @@ No tests for RSS Readers.
 
 [好奇心日报](https://www.qdaily.com/)
 
+[QQ音乐](https://y.qq.com/n/yqq/mv/v/m00227bxwss.html)
+
 [ItChat 教程](https://itchat.readthedocs.io/zh/latest/tutorial/tutorial0/)
 
 [1024](https://www.t66y.com/htm_data/7/1807/3215559.html)
