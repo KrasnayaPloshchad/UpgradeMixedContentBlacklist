@@ -14,6 +14,8 @@ No tests for RSS Readers.
 
 [South Park](https://southpark.cc.com/)
 
+[博客园](https://www.cnblogs.com/smyhvae/p/8732781.html)
+
 [酷安网](https://coolapk.com/apk/com.oasisfeng.greenify)
 
 [PotPlayer](https://potplayer.daum.net/)
