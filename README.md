@@ -26,6 +26,8 @@ No tests for RSS Readers.
 
 [环球网](https://w.huanqiu.com/r/MV8wXzg3MTg4MDZfMTQyNV8xNDU4MTE0NTQw)
 
+[雷科技](https://www.leikeji.com/)
+
 [丽华快餐](https://www.lihua.com/)
 
 [好奇心日报](https://www.qdaily.com/)
