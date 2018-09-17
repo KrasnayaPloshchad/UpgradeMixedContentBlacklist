@@ -42,6 +42,8 @@ No tests for RSS Readers.
 
 [土豆视频移动版](https://compaign.tudou.com/v/XMzU4MTg5NTg3Mg)
 
+[V2EX](https://www.v2ex.com/t/462280)
+
 [优酷视频](https://v.youku.com/v_show/id_XNjQ1OTkxMDcy.html)
 
 [优酷视频移动版](https://m.youku.com/video/id_XMzc3MDg3MDIzNg==.html)
