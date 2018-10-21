@@ -10,6 +10,8 @@ No tests for RSS Readers.
 
 [Alien外星人](https://www.aliengu.com/)
 
+[关于百度](https://home.baidu.com/)
+
 [Bianews鞭牛士](https://www.bianews.com/)
 
 [博客园](https://www.cnblogs.com/smyhvae/p/8732781.html)
