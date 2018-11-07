@@ -36,11 +36,7 @@ No tests for RSS Readers.
 
 [QQ音乐](https://y.qq.com/n/yqq/mv/v/m00227bxwss.html)
 
-[ItChat 教程](https://itchat.readthedocs.io/zh/latest/)
-
 [1024](https://www.t66y.com/htm_data/7/1807/3215559.html)
-
-[开发者头条](https://toutiao.io/posts/48x2bx/preview)
 
 [土豆视频](https://new-play.tudou.com/v/XMzU4MTg5NTg3Mg.html)
 
