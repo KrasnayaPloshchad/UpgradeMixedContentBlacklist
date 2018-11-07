@@ -30,6 +30,8 @@ No tests for RSS Readers.
 
 [丽华快餐](https://www.lihua.com/)
 
+[每日财经网](https://www.mrcjcn.com/)
+
 [好奇心日报](https://www.qdaily.com/)
 
 [QQ音乐](https://y.qq.com/n/yqq/mv/v/m00227bxwss.html)
