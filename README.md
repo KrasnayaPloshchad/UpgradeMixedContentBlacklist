@@ -44,6 +44,8 @@ No tests for RSS Readers.
 
 [V2EX](https://www.v2ex.com/t/462280)
 
+[喜马拉雅FM](https://www.ximalaya.com/toutiao/4308484/)
+
 [优酷视频](https://v.youku.com/v_show/id_XNjQ1OTkxMDcy.html)
 
 [优酷视频移动版](https://m.youku.com/video/id_XMzc3MDg3MDIzNg==.html)
