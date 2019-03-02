@@ -6,8 +6,6 @@
 
 No tests for RSS Readers.
 
-[4chan](https://www.4chan.org/)
-
 [Alien外星人](https://www.aliengu.com/)
 
 [关于百度](https://home.baidu.com/)
@@ -30,26 +28,12 @@ No tests for RSS Readers.
 
 [丽华快餐](https://www.lihua.com/)
 
-[每日财经网](https://www.mrcjcn.com/)
-
 [好奇心日报](https://www.qdaily.com/)
 
 [QQ音乐](https://y.qq.com/n/yqq/mv/v/m00227bxwss.html)
 
 [1024](https://www.t66y.com/htm_data/7/1807/3215559.html)
 
-[土豆视频](https://new-play.tudou.com/v/XMzU4MTg5NTg3Mg.html)
-
-[土豆视频移动版](https://compaign.tudou.com/v/XMzU4MTg5NTg3Mg)
-
 [V2EX](https://www.v2ex.com/t/462280)
 
-[喜马拉雅FM](https://www.ximalaya.com/toutiao/4308484/)
-
-[优酷视频](https://v.youku.com/v_show/id_XNjQ1OTkxMDcy.html)
-
-[优酷视频移动版](https://m.youku.com/video/id_XMzc3MDg3MDIzNg==.html)
-
-[优酷视频专题页](https://acz.youku.com/wow/yktopic/act/292VYV7G)
-
-[最美应用](https://zuimeia.com/app/5421/)
+[弈客线下赛事报名](https://baoming.yikeweiqi.com/)
